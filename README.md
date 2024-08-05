@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muskanagarwal-15
+- 👋 Hi, I’m Muskan Agarwal
 - 👀 I’m interested in full stack development and DSA
 - 🌱 I’m currently learning backend web development
 - 💞️ I’m looking to collaborate on open source projects and web development projects
