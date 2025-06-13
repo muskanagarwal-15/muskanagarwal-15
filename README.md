@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muskan Agarwal
-- 👀 I’m interested in full stack development and DSA
-- 🌱 I’m currently learning backend web development
+- 👀 I’m interested in full stack development and AI
+- 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on open source projects and web development projects
 - 📫 How to reach me : muskan.agarwal.cse27@heritageit.edu.in
 - 😄 Pronouns: she/her
